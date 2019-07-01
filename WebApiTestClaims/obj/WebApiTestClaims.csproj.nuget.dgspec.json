@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Orbis\\source\\repos\\WebApiTestClaims\\WebApiTestClaims\\WebApiTestClaims.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Orbis\\source\\repos\\WebApiTestClaims\\WebApiTestClaims\\WebApiTestClaims.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Orbis\\source\\repos\\WebApiTestClaims\\WebApiTestClaims\\WebApiTestClaims.csproj",
+        "projectName": "WebApiTestClaims",
+        "projectPath": "C:\\Users\\Orbis\\source\\repos\\WebApiTestClaims\\WebApiTestClaims\\WebApiTestClaims.csproj",
+        "packagesPath": "C:\\Users\\Orbis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Orbis\\source\\repos\\WebApiTestClaims\\WebApiTestClaims\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Orbis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "DotNetOpenAuth.InfoCard.UI": {
+              "target": "Package",
+              "version": "[4.3.4.13329, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Thinktecture.IdentityModel": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

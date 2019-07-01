@@ -1,0 +1,14 @@
+C:\Users\Orbis\source\repos\WebApiTestClaims\WebApiTestClaims\bin\Debug\netcoreapp2.2\WebApiTestClaims.deps.json
+C:\Users\Orbis\source\repos\WebApiTestClaims\WebApiTestClaims\bin\Debug\netcoreapp2.2\WebApiTestClaims.runtimeconfig.json
+C:\Users\Orbis\source\repos\WebApiTestClaims\WebApiTestClaims\bin\Debug\netcoreapp2.2\WebApiTestClaims.runtimeconfig.dev.json
+C:\Users\Orbis\source\repos\WebApiTestClaims\WebApiTestClaims\bin\Debug\netcoreapp2.2\WebApiTestClaims.dll
+C:\Users\Orbis\source\repos\WebApiTestClaims\WebApiTestClaims\obj\Debug\netcoreapp2.2\WebApiTestClaims.csprojAssemblyReference.cache
+C:\Users\Orbis\source\repos\WebApiTestClaims\WebApiTestClaims\obj\Debug\netcoreapp2.2\WebApiTestClaims.csproj.CoreCompileInputs.cache
+C:\Users\Orbis\source\repos\WebApiTestClaims\WebApiTestClaims\obj\Debug\netcoreapp2.2\WebApiTestClaims.RazorAssemblyInfo.cache
+C:\Users\Orbis\source\repos\WebApiTestClaims\WebApiTestClaims\obj\Debug\netcoreapp2.2\WebApiTestClaims.RazorAssemblyInfo.cs
+C:\Users\Orbis\source\repos\WebApiTestClaims\WebApiTestClaims\obj\Debug\netcoreapp2.2\WebApiTestClaims.AssemblyInfoInputs.cache
+C:\Users\Orbis\source\repos\WebApiTestClaims\WebApiTestClaims\obj\Debug\netcoreapp2.2\WebApiTestClaims.AssemblyInfo.cs
+C:\Users\Orbis\source\repos\WebApiTestClaims\WebApiTestClaims\obj\Debug\netcoreapp2.2\WebApiTestClaims.RazorTargetAssemblyInfo.cache
+C:\Users\Orbis\source\repos\WebApiTestClaims\WebApiTestClaims\bin\Debug\netcoreapp2.2\WebApiTestClaims.pdb
+C:\Users\Orbis\source\repos\WebApiTestClaims\WebApiTestClaims\obj\Debug\netcoreapp2.2\WebApiTestClaims.dll
+C:\Users\Orbis\source\repos\WebApiTestClaims\WebApiTestClaims\obj\Debug\netcoreapp2.2\WebApiTestClaims.pdb
